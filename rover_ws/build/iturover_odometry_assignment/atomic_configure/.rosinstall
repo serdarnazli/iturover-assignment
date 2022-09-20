@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/serdarnazli/rover_ws/devel/.private/iturover_odometry_assignment/setup.sh

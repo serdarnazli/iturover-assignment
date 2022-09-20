@@ -1,0 +1,8 @@
+prefix=/home/serdarnazli/rover_ws/install
+
+Name: iturover_odometry_assignment
+Description: Description of iturover_odometry_assignment
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
