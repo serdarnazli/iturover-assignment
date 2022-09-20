@@ -1,0 +1,2 @@
+rover_odev
+-DCATKIN_DEVEL_PREFIX=/home/serdarnazli/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/serdarnazli/catkin_ws/install -G Unix Makefiles

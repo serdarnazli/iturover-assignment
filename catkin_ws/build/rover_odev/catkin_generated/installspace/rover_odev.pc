@@ -1,0 +1,8 @@
+prefix=/home/serdarnazli/catkin_ws/install
+
+Name: rover_odev
+Description: Description of rover_odev
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
